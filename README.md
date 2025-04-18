@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pratik-Pandey
 - 👀 I’m interested in open source developement
-- 🌱 I’m currently learning ... C++, DS, algo , Gate exam subjects
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me ... vai mail
 
